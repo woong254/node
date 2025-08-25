@@ -1,0 +1,31 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "node test",
+      "author": "user01"
+    },
+    {
+      "id": 2,
+      "title": "node test2",
+      "author": "user02"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "test comment",
+      "postId": 1
+    },
+    {
+      "id": "woong",
+      "body": "hello",
+      "postId": 2
+    },
+    {
+      "id": "jjw",
+      "body": "second comments",
+      "postId": 2
+    }
+  ]
+}
